@@ -8,7 +8,7 @@
 
 -Game Development
 -Minecraft Survival and Speedrunning
--Getting Good at Super Smash Bros.
+-Geography and History
 -----------------------------------------------
 💞️ I’m looking to collaborate on:
 
@@ -18,8 +18,7 @@
 -----------------------------------------------
 📫 How to reach me ...
 
--You Don't. Only reach me with my permission
-and consent.
+-You Don't.
 -----------------------------------------------
 <!---
 DogeOrTrain/DogeOrTrain is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
